@@ -1,0 +1,11 @@
+dataset/
+*.pyc
+__pycache__/
+*.model
+.venv/
+datasetold/archive.zip
+dataset*
+ml*
+*.png
+best*
+models*
